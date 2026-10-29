@@ -6,7 +6,3 @@ I'm currently focusing on **Data Engineering, Applied AI, and building practical
 
 **Technologies:** Python · SQL · FastAPI · Pandas · PyTorch · Docker · Linux
 
-### Selected Projects
-
-- [**Zero-Trust Data Pipeline**](https://github.com/TomWa98/zta-pipeline-demo) — Bachelor's thesis prototype exploring policy-based access control and audit logging.
-- [**RAG Knowledge Assistant**](https://github.com/TomWa98/rag-knowledge-assistant) — Local retrieval-augmented generation prototype using vector search and an LLM.
